@@ -1,0 +1,14 @@
+.card{
+    transition: all 0.3s;
+}
+
+
+.card:hover{
+    transform: scale(1.1);
+}
+.carousel-item{
+    transition: all 0.3s;
+}
+.carousel-item:hover{
+    transform:scale(1.1);
+}
